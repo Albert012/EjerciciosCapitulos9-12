@@ -40,8 +40,16 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Capitulo10\Estudiantes.cs" />
+    <Compile Include="Capitulo10\Inventario.cs" />
+    <Compile Include="Capitulo10\PoligonoPropiedad.cs" />
+    <Compile Include="Capitulo10\PoligonoSobrecarga.cs" />
+    <Compile Include="Capitulo10\PoligonoToString.cs" />
+    <Compile Include="Capitulo12\Factorial.cs" />
+    <Compile Include="Capitulo9\CapituloIX.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
