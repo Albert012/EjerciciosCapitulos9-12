@@ -46,7 +46,10 @@
     <Compile Include="Capitulo10\PoligonoSobrecarga.cs" />
     <Compile Include="Capitulo10\PoligonoToString.cs" />
     <Compile Include="Capitulo12\Factorial.cs" />
-    <Compile Include="Capitulo9\CapituloIX.cs" />
+    <Compile Include="Capitulo12\WriteLine.cs" />
+    <Compile Include="Capitulo9\DuenoMascota.cs" />
+    <Compile Include="Capitulo9\Enumeracion.cs" />
+    <Compile Include="Capitulo9\ProductosTienda.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

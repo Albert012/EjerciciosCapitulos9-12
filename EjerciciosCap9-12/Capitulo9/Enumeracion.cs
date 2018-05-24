@@ -5,12 +5,14 @@ using System.Text;
 
 namespace EjerciciosCap9_12.Capitulo9
 {
-    public class CapituloIX
+    public class Enumeracion
     {
-        public CapituloIX()
+        enum TipoNeumatico { };
+
+        public Enumeracion()
         {
 
+
         }
-               
     }
 }
