@@ -7,7 +7,8 @@ namespace EjerciciosCap9_12.Capitulo9
 {
     public class Enumeracion
     {
-        enum TipoNeumatico { };
+        //tipos de neumaticos
+        enum Neumatico {Verano, Invierno, AllSeasons, Coche, Furgoneta, CuatroPorCuatro, PerfilBajo, PerfilAncho, Runflat, Tubuless, Recauchutados, Verdes, Radiales, Diagonales};
 
         public Enumeracion()
         {
